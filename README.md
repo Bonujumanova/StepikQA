@@ -1,0 +1,2 @@
+# StepikQA
+Exercices from Stepik
