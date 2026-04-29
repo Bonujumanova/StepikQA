@@ -61,4 +61,3 @@ def test_click_main_bar(set_up, set_group):
     client_info_page.get_screenshot()
 
     print("FINISH TEST #1 SUCCESS!")
-
